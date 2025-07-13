@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Dikesh Manandhar
 
-<!--
-**Dikesh-Manandhar/Dikesh-Manandhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _A young kid trying to figure out all this cool stuff!_
 
-Here are some ideas to get you started:
+I'm a **Computer Engineering student** with a passion for learning and exploring new fields. Whether it's coding, machine learning, or just tinkering with technology, I'm here to grow and connect with others on a similar journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Interests
+
+- 🌱Programming:
+  - Python & Jupyter
+  - JavaScript
+  - Machine Learning
+  - C & C++
+- 💪 **Fitness fanatic**
+- 🧠 **Psychology enthusiast**
+- 🌏 **Geopolitics explorer**
+
+## 📌 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/dikeshmanandhar)
+- [Website](https://dikeshmanandhar.com.np)
+
+## 🎯 What I'm Up To
+
+- Experimenting with code and projects.
+- Always learning, always curious.
+- Eager to collaborate with fellow explorers!
+
+---
+
+Feel free to reach out if you’re interested in learning and growing together!
